@@ -1,0 +1,1 @@
+I and my team worked on coding the application and we have successfully created a home page with all the titles and background coloring, we have also created a login page for the users to get registered and access our application and the rest of the work and coding will be done later and the code is available to view in the other text file.
