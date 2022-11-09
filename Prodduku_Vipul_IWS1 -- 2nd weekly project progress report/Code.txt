@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <br><br><br>
+        <title>vechical Car-Insurance-Claim</title>
+        <style>
+            body{
+                text-align: center;
+                background-position: center;
+                background-image: url(./bmw_e34_red_cars_side_view_sports_96487_1920x1080.jpg);background-repeat: no-repeat;
+                background-size: cover;
+            }
+            h1{
+                color: rgb(229, 20, 20);
+                background-color: aqua;
+                box-shadow: 0 0 20px gold;
+                border-radius: 10px;
+            }
+            h2{
+                color: rgb(17, 237, 116);
+                text-align:right;
+            }
+            button{
+                color: coral;
+                box-shadow: 0 0 20px rgb(36, 22, 225);
+                border-radius: 10px;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Buy Car Insurance Online in Edubridge(capgemini)
+            Discover Amazing Savings
+            </h1>
+        <h2>Click. Tick. Done!</h2>
+        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+        <button = ><a style="colour:red;" href="Login1.html">BY ONLINE</a></button>
+        
+    </body>
+</html>
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            h2{
+
+            }
+            body{
+                text-align: center;
+                
+            }
+            button{
+                color: coral;
+                box-shadow: 0 0 20px rgb(36, 22, 225);
+                border-radius: 10px;
+            }
+            ul {
+                list-style-type: none;
+                margin: 10px;
+                padding: 10px;
+                overflow: hidden;
+                text-align: center;
+                position: fixed;
+                border-radius: 15px;
+                top: 0;
+                width: 100%;
+                box-shadow: 0 0 20px rgb(0, 255, 55);
+                display: flex;
+                align-items: center;
+                justify-content:space-around
+                
+              }
+              
+              li {
+                float: left;
+                text-align: center;
+                border-right: 1px solid #bbb;
+                border-radius: 15px;
+              }
+              
+              li a {
+                display: block;
+                padding: 18px;
+                
+                background-color: red;
+              }
+              h1{
+                
+              }
+                
+        </style>
+
+    </head>
+    <body>
+        <ul>
+            <li><a href="1.html">Home</a></li>
+            <li><a href="Login1.html">Go To Login Page</a></li>
+            <li><a href="button.html">Go To Insurance Delites Page </a></li>
+            
+          </ul>
+
+        <br><br><br><br><br><br><br><br><br><br>
+        <form action="#" method="post">
+            <h1 style=>/Google pay  Phone Number provied</h1>
+            <input type="text" name="user" placeholder="+1"></form>
+            <br><br><br><br>
+            <button = ><a href="confarmation.html" ><h2>PROCEED TO PAY 500 DOLLARS</h2></a></button>
+    </body>
+</html>
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            h2{
+
+            }
+            body{
+                text-align: center;
+                
+            }
+            button{
+                color: coral;
+                box-shadow: 0 0 20px rgb(36, 22, 225);
+                border-radius: 10px;
+            }
+            ul {
+                list-style-type: none;
+                margin: 10px;
+                padding: 10px;
+                overflow: hidden;
+                text-align: center;
+                position: fixed;
+                border-radius: 15px;
+                top: 0;
+                width: 100%;
+                box-shadow: 0 0 20px rgb(0, 255, 55);
+                display: flex;
+                align-items: center;
+                justify-content:space-around
+                
+              }
+              
+              li {
+                float: left;
+                text-align: center;
+                border-right: 1px solid #bbb;
+                border-radius: 15px;
+              }
+              
+              li a {
+                display: block;
+                padding: 18px;
+                
+                background-color: red;
+              }
+                
+        </style>
+
+    </head>
+    <body>
+        <ul>
+            <li><a href="1.html">Home</a></li>
+            <li><a href="Login1.html">Go To Login Page</a></li>
+            <li><a href="button.html">Go To Insurance Delites Page </a></li>
+            
+          </ul>
+
+        <br><br><br><br><br><br><br><br><br><br>
+        <form action="#" method="post">
+            <h1 style=>/Google pay  Phone Number provied</h1>
+            <input type="text" name="user" placeholder="+1"></form>
+            <br><br><br><br>
+            <button = ><a href="./confarmation.html" ><h1>PROCEED TO PAY 1000 DoOLLARS</h1></a></button>
+    </body>
+</html>
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            h2{
+
+            }
+            body{
+                text-align: center;
+                
+            }
+            button{
+                color: coral;
+                box-shadow: 0 0 20px rgb(36, 22, 225);
+                border-radius: 10px;
+            }
+            ul {
+                list-style-type: none;
+                margin: 10px;
+                padding: 10px;
+                overflow: hidden;
+                text-align: center;
+                position: fixed;
+                border-radius: 15px;
+                top: 0;
+                width: 100%;
+                box-shadow: 0 0 20px rgb(0, 255, 55);
+                display: flex;
+                align-items: center;
+                justify-content:space-around
+                
+              }
+              
+              li {
+                float: left;
+                text-align: center;
+                border-right: 1px solid #bbb;
+                border-radius: 15px;
+              }
+              
+              li a {
+                display: block;
+                padding: 18px;
+                
+                background-color: red;
+              }
+                
+        </style>
+
+    </head>
+    <body>
+        <ul>
+            <li><a href="1.html">Home</a></li>
+            <li><a href="Login1.html">Go To Login Page</a></li>
+            <li><a href="button.html">Go To Insurance Delites Page </a></li>
+            
+          </ul>
+
+        <br><br><br><br><br><br><br><br><br><br>
+        <form action="#" method="post">
+            <h1 style=>/Google pay  Phone Number provied</h1>
+            <input type="text" name="user" placeholder="+91"></form>
+            <br><br><br><br>
+            <button = ><a href="./confarmation.html" ><h1>PROCEED TO PAY 1500 DOLLARS</h1></a></button>
+    </body>
+</html>
