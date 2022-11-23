@@ -1,0 +1,4 @@
+I've linked the customer phone numbers for their insurance reservations so that both the consumer and the business can quickly find out the specifics of the client's insurance.
+I have given the customers' vehicle number section the information they need to fill out for the specific car that must be utilized when it is damaged and insurance is applied.
+I have supplied phone numbers that the consumer can call if they have any problems with the insurance coverage, so that any problems can be resolved.
+I have a warning that says, "BE SAFE RIDE WITH YOUR VEHICLE," scrolling across the screen for the customer.
